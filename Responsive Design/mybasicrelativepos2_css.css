@@ -1,0 +1,13 @@
+.parent
+{
+	background-color: green;
+	font-size: 20px;
+	width: 1000px;
+}
+
+.child
+{
+	background-color: blue;
+	font-size: 2em;
+	width: 50%;
+}

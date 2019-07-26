@@ -1,0 +1,42 @@
+
+.my-container
+{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.container-item
+{
+
+	background-color: blue;
+	margin:1%;
+	width: 20%;
+	height: 200px; 
+
+}
+
+.myfont
+{
+	font-size: 20px;
+	font-weight: bolder;
+	color: white;
+	text-align: center;
+}
+
+.mystyle3
+{
+	order:3;
+}
+
+.mystyle2
+{
+	order:2;
+}
+
+
+
+.mystyle1
+{
+	order:1;
+}
